@@ -3,5 +3,5 @@ Zhvillimi i nje aplikacioni per komunikim te sigurte server-klient duke perdorur
 
 Kete projekt e zhvilluan studentet:
 Gentian Veliu,
-Majlinda Jaha,
+Majlinda Jaha dhe
 Zana Krasniqi
